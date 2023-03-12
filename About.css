@@ -31,18 +31,18 @@
     font-size: 1.875rem;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 472px;
+  min-height: 477px;
 }
 
 .u-section-2 .u-list-1 {
   grid-template-rows: auto;
   width: 1202px;
-  margin: 0 -31px 48px;
+  margin: 0 -31px 20px;
 }
 
 .u-section-2 .u-repeater-1 {
   grid-template-columns: 16.6667% 16.6667% 16.6667% 16.6667% 16.6667% 16.6667%;
-  min-height: 424px;
+  min-height: 457px;
   grid-gap: 0px 0px;
   grid-auto-columns: 16.6667%;
 }
@@ -52,14 +52,14 @@
 }
 
 .u-section-2 .u-image-1 {
-  height: 171px;
+  height: 212px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-2 .u-text-1 {
-  width: 116px;
-  margin: 35px auto 0;
+  width: 117px;
+  margin: 26px auto 0;
 }
 
 .u-section-2 .u-text-2 {
@@ -71,14 +71,14 @@
 }
 
 .u-section-2 .u-image-2 {
-  height: 171px;
+  height: 212px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-2 .u-text-3 {
-  width: 116px;
-  margin: 35px auto 0;
+  width: 117px;
+  margin: 26px auto 0;
 }
 
 .u-section-2 .u-text-4 {
@@ -90,14 +90,14 @@
 }
 
 .u-section-2 .u-image-3 {
-  height: 171px;
+  height: 212px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-2 .u-text-5 {
-  width: 116px;
-  margin: 35px auto 0;
+  width: 117px;
+  margin: 26px auto 0;
 }
 
 .u-section-2 .u-text-6 {
@@ -109,14 +109,14 @@
 }
 
 .u-section-2 .u-image-4 {
-  height: 171px;
+  height: 212px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-2 .u-text-7 {
-  width: 116px;
-  margin: 35px auto 0;
+  width: 117px;
+  margin: 26px auto 0;
 }
 
 .u-section-2 .u-text-8 {
@@ -128,14 +128,14 @@
 }
 
 .u-section-2 .u-image-5 {
-  height: 171px;
+  height: 212px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-2 .u-text-9 {
-  width: 116px;
-  margin: 35px auto 0;
+  width: 117px;
+  margin: 26px auto 0;
 }
 
 .u-section-2 .u-text-10 {
@@ -147,14 +147,14 @@
 }
 
 .u-section-2 .u-image-6 {
-  height: 171px;
+  height: 212px;
   margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-2 .u-text-11 {
-  width: 116px;
-  margin: 35px auto 0;
+  width: 117px;
+  margin: 26px auto 0;
 }
 
 .u-section-2 .u-text-12 {
@@ -170,7 +170,7 @@
 
   .u-section-2 .u-repeater-1 {
     grid-template-columns: 20% 20% 20% 20% 20%;
-    min-height: 332px;
+    min-height: 357px;
     grid-auto-columns: 16.666666666666668%;
   }
 
